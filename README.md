@@ -2,9 +2,9 @@
 *sample chat app using firebase firestore 
 
 ## Covered topics :
-*shared preference 
+* shared preference 
 * material Design 
-*firestore
+* firestore
 ## this app is connected to [insta app](https://github.com/ahmedsamir9/insta-app)
 ## Screecnshots :
 ![](p1.jpeg )
