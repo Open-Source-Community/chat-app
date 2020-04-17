@@ -7,7 +7,7 @@
 *firestore
 
 ## Screecnshots :
-![](p1.jpeg)
+![](p1.jpeg = 20x20)
 ![](p2.jpeg)
 ![](p3.jpeg)
 ![](p4.jpeg)
