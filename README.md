@@ -5,7 +5,7 @@
 * shared preference 
 * material Design 
 * firestore
-## this app is connected to [insta app](https://github.com/ahmedsamir9/insta-app)
+## this app is connected to [insta app](https://github.com/Open-Source-Community/insta-app)
 ## Screecnshots :
 ![](p1.jpeg )
 ![](p2.jpeg)
